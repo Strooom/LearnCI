@@ -1,0 +1,24 @@
+#######################################
+# Syntax Coloring Map
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+intervalTimer	KEYWORD1
+singleTimer	KEYWORD1
+counter	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+expired	KEYWORD2
+start	KEYWORD2
+increment	KEYWORD2
+reset	KEYWORD2
+
+######################################
+# Constants (LITERAL1)
+#######################################
+KEY_NONE	LITERAL1
