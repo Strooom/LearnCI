@@ -1,6 +1,6 @@
 #include <Arduino.h>
 #include <ArduinoUnitTests.h>
-#include "runtimer.h"
+#include "timers.h"
 
 unittest(intervalTimer) {
     intervalTimer aTimer(1000);
