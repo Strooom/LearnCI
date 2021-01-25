@@ -1,0 +1,7 @@
+platforms:
+  # removing some platforms from the default list
+  zero: ~
+  due: ~
+  leonardo: ~
+  esp8266 : ~
+  mega2560: ~
