@@ -8,7 +8,7 @@
 // #############################################################################
 
 #include <Arduino.h>
-#include "runtimer.h"
+#include "timers.h"
 
 intervalTimer timerOne(1000);
 intervalTimer timerTwo(3000);
