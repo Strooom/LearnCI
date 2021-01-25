@@ -3,5 +3,7 @@ platforms:
   zero: ~
   due: ~
   leonardo: ~
-  esp8266 : ~
+  esp8266: ~
   mega2560: ~
+
+  # see https://github.com/Arduino-CI/arduino_ci/blob/master/REFERENCE.md#indirectly-overriding-build-behavior-medium-term-use-and-advanced-options
